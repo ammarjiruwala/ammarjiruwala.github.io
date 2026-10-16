@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- The multiverse mark: a bold A printed out of register (cyan, magenta, then red) on the comic table's ink. -->
+  <defs>
+    <path id="a" fill-rule="evenodd" d="M13 53 L27 11 L37 11 L51 53 L40.5 53 L37.6 44 L26.4 44 L23.5 53 Z M29 36 L35 36 L32 26.5 Z"/>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#17141f"/>
+  <g transform="rotate(-7 32 32)">
+    <use href="#a" fill="#19c6f0" transform="translate(-3 -1.5)"/>
+    <use href="#a" fill="#ff2d8a" transform="translate(2.5 2.5)" opacity=".9"/>
+    <use href="#a" fill="#e0232f"/>
+  </g>
+</svg>
